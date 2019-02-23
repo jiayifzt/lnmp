@@ -33,6 +33,7 @@ linux里的基础二个：lamp和lnmp。
      可以安装phalcon.so扩展
 
 #### 然后便可下载个git代码库到服务器，拷贝Nginx配置文件进行配置，配置项目config文件。开始开发。
+git clone https://username:passwd@github.com/jiayifzt/simple-web.git
 
 整个过程1个小时搞定。
 
