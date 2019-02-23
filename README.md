@@ -25,7 +25,7 @@ linux里的基础二个：lamp和lnmp。
 三、安装后查看端口是否服务都安装成功： netstat -utpln  ##Nginx、MySQL、PHP都是running，80和3306端口都存在，说明已经安装成功。
 
 #### 命令行可以直接安装Redis库
-文档：https://my.oschina.net/u/3223370/blog/1807702可以安装phalcon.so扩展
+文档：https://my.oschina.net/u/3223370/blog/1807702 可以安装phalcon.so扩展
 
 ###后续更新双php环境！
 --------------------- 
