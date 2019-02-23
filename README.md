@@ -26,6 +26,8 @@ linux里的基础二个：lamp和lnmp。
 
 #### 命令行可以直接安装Redis库
 
+#### https://github.com/jbboehr/php-psr 安装psr.so扩展，phalcon需要.
+
 #### 文档：https://my.oschina.net/u/3223370/blog/1807702 
 #### 文档：https://blog.csdn.net/u010474681/article/details/78441468 
      可以安装phalcon.so扩展
