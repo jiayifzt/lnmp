@@ -1,6 +1,8 @@
 # lnmp
 一键安装lnmp
 linux里的基础二个：lamp和lnmp。
+1、阿里云默认80端口没开，要去控制台开启下。
+2、psr要优先于phalcon加载，可以通过修改ini文件名来控制顺序。
 
 一、下载lnmp安装包：
       wget http://202.115.33.13/soft/lnmp/lnmp1.5.tar.gz
