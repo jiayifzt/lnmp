@@ -1,6 +1,7 @@
 #    1、阿里云默认80端口没开，要去控制台开启下。
 #    2、psr要优先于phalcon加载，可以通过修改ini文件名来控制顺序。
 #    3. https://github.com/phalcon/cphalcon/tree/4.0.x 选择版本3.4.3，git clone然后编译出phalcon.so就不要psr.so
+     4、lnmp安装时候 ，lnmp.conf配置一下，可自动安装fileinfo扩展
 
 # lnmp
 一键安装lnmp
